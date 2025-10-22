@@ -1,10 +1,14 @@
 {
-  "visitas_totales": 1,
-  "tiempo_total_segundos": 1,
+  "visitas_totales": 2,
+  "tiempo_total_segundos": 541,
   "visitas": [
     {
       "fecha": "2025-10-22 03:17:14",
       "duracion_segundos": 1
+    },
+    {
+      "fecha": "2025-10-22 03:50:14",
+      "duracion_segundos": 540
     }
   ]
 }
